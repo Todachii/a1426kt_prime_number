@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = A1426ktPrimeNumber::VERSION
   spec.authors       = ["kikuko toda"]
   spec.email         = ["k-toda@gmail.com"]
-  spec.summary       = %q{Determine that it is a prime number.}
-  spec.description   = %q{It's my homework.}
+  spec.summary       = %q{Determine whether this integer is a prime number or not.}
+  spec.description   = %q{This is my homework.}
   spec.homepage      = ""
   spec.license       = "MIT"
 
