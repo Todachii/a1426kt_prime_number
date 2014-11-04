@@ -1,7 +1,6 @@
-require "a1426kt_prime_number/version"
+#require "a1426kt_prime_number/version"
 
-class A1426ktPrimeNumber
-#module A1426ktPrimeNumber
+module A1426ktPrimeNumber
   # Your code goes here...
   def determine_prime(num)
     if num == 1 || num == 2 then
@@ -22,3 +21,4 @@ class A1426ktPrimeNumber
     end
   end
 end
+
